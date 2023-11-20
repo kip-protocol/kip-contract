@@ -1,0 +1,10 @@
+{
+  "description": "Shards for the Hunters On-Chain game",
+  "external_url": "https://boomland.io",
+  "name": "Axe Master Shard - Common",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Common" },
+    { "trait_type": "Type", "value": "Axe Master" }
+  ],
+  "image": "https://hunt-nft.cdn.boombit.cloud/Shards/60.png"
+}
